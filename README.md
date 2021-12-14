@@ -57,4 +57,5 @@ Details
   * [Verichains Public Audit Report - TheParallel - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20TheParallel%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - DeHR - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20DeHR%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - TankBattle Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20TankBattle%20Token%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - MetaStrike Tokens - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20MetaStrike%20Tokens%20-%20v1.1.pdf)
   
