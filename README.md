@@ -56,7 +56,7 @@ Details
   * [Verichains Public Audit Report - F2NFT - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20F2NFT%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - TheParallel - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20TheParallel%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - DeHR - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20DeHR%20-%20v1.1.pdf)
-  * [Verichains Public Audit Report - TankBattle Token - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20TankBattle%20Token%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - TankBattle Token - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20TankBattle%20Token%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - MetaStrike Tokens - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20MetaStrike%20Tokens%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Taureum Token and Vesting Factory - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Taureum%20Tokens%20and%20Vesting%20Factory%20-%20v1.0.pdf)
   
