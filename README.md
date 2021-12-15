@@ -59,5 +59,5 @@ Details
   * [Verichains Public Audit Report - TankBattle Token - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20TankBattle%20Token%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - MetaStrike Tokens - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20MetaStrike%20Tokens%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Taureum Token and Vesting Factory - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Taureum%20Token%20and%20Vesting%20Factory%20-%20v1.0.pdf)
-  * [Verichains Public Audit Report - Stay In Destiny World Token and TimeLockWallet - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Stay%20In%20Destity%20World%20Token%20and%20TimeLockWallet%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - Stay In Destiny World Token and TimeLockWallet - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Stay%20In%20Destiny%20World%20Token%20and%20TimeLockWallet%20-%20v1.0.pdf)
   
