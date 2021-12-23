@@ -62,3 +62,4 @@ Details
   * [Verichains Public Audit Report - Stay In Destiny World Token and TimeLockWallet - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Stay%20In%20Destiny%20World%20Token%20and%20TimeLockWallet%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - ABIGame Tokens - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20ABIGame%20Tokens%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - World of Metasea Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20World%20of%20Metasea%20Token%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - CryptoGuards - v1.0.pdf](Verichains%20Pulbic%20Audit%20Report%20-%20CryptoGuards%20-%20v1.0.pdf)
