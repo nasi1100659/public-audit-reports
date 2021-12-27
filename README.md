@@ -63,3 +63,4 @@ Details
   * [Verichains Public Audit Report - ABIGame Tokens - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20ABIGame%20Tokens%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - World of Metasea Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20World%20of%20Metasea%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - CryptoGuards Token- v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20CryptoGuards%20Token%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - DeFiHorse Token- v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20DeFiHorse%20Token%20-%20v1.1.pdf)
