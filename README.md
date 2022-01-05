@@ -68,3 +68,4 @@ Details
   * [Verichains Public Audit Report - HimoWorld - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20HimoWorld%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - MetaGear Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20MetaGear%20Token%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - Arkarus Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20Arkarus%20Token%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - FTMLaunch Campaign - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20FTMLaunch%20Campaign%20-%20v1.0.pdf)
