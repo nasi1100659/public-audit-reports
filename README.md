@@ -71,3 +71,4 @@ Details
   * [Verichains Public Audit Report - FTMLaunch Campaign - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20FTMLaunch%20Campaign%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - DogeInfinitive Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20DogeInfinitive%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - LunaRush Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20LunaRush%20Token%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - SDRCoin - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20SDRCoin%20-%20v1.0.pdf)
