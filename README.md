@@ -75,3 +75,4 @@ Details
   * [Verichains Public Audit Report - NFT Marble Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20NFT%20Marble%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Dot Arcade Token and Vesting - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Dot%20Arcade%20Token%20and%20Vesting%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - MetaStrike Tokens - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20MetaStrike%20Tokens%20-%20v1.2.pdf)
+  * [Verichains Public Audit Report - PiguLand - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20PiguLand%20-%20v1.1.pdf)
