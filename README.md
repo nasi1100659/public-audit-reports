@@ -78,3 +78,4 @@ Details
   * [Verichains Public Audit Report - PiguLand - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20PiguLand%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - LunaRush Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20LunaRush%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - MetaGear Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20MetaGear%20Token%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - DragonSB Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20DragonSB%20Token%20-%20v1.1.pdf)
