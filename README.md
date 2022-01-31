@@ -83,3 +83,4 @@ Details
   * [Verichains Public Audit Report - InfinityArena Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20InfinityArena%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Koakuma Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Koakuma%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - BAOE Token and IDO - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20BAOE%20Token%20and%20IDO%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Lakrima Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Lakrima%20Token%20-%20v1.0.pdf)
