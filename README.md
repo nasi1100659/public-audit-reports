@@ -87,3 +87,4 @@ Details
   * [Verichains Public Audit Report - HimoWorld Staking - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Himoworld%20Staking%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - FadoGo Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20FadoGo%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - ARKRivals Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20ARKRivals%20Token%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - STMAN Tokens - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20STMAN%20Tokens%20-%20v1.1.pdf)
