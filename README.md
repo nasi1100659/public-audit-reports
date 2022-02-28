@@ -93,3 +93,4 @@ Details
   * [Verichains Public Audit Report - OP3N Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20OP3N%20smartcontracts%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - FarmMe Tokens - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20FarmMe%20-%201.0.pdf)
   * [Verichains Public Audit Report - 200Lab NFT and Marketplace - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20200Lab%20NFT%20and%20Marketplace%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - Creature Hunters Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Creature%20Hunters%20Token%20-%20v1.0.pdf)
