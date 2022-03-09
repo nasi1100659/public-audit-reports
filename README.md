@@ -96,3 +96,4 @@ Details
   * [Verichains Public Audit Report - Creature Hunters Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Creature%20Hunters%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - DarkLand Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20DarkLand%20Smartcontracts%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - DeFiHorse IBCO - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20DeFiHorse%20IBCO%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - BitCastle Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20BitCastle%20Token%20-%20v1.0.pdf)
