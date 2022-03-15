@@ -99,3 +99,4 @@ Details
   * [Verichains Public Audit Report - BitCastle Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20BitCastle%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - The Last World Token and Vesting - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20The%20Last%20World%20Token%20and%20Vesting%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - AceStarter Token and Vesting - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20AceStarter%20Token%20and%20Vesting%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - SubWallet Extension - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20SubWallet%20Extension%20-%20v1.1.pdf)
