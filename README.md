@@ -100,3 +100,4 @@ Details
   * [Verichains Public Audit Report - The Last World Token and Vesting - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20The%20Last%20World%20Token%20and%20Vesting%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - AceStarter Token and Vesting - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20AceStarter%20Token%20and%20Vesting%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - SubWallet Extension - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20SubWallet%20Extension%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - World of Masters Smartcontracts - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20World%20of%20Masters%20Smartcontracts%20-%20v1.1.pdf)
