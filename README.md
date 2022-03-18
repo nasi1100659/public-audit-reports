@@ -104,4 +104,4 @@ Details
   * [Verichains Public Audit Report - RiceWallet Android Application - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20RiceWallet%20Android%20Application%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - RiceWallet IOS Application - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20RiceWallet%20IOS%20Application%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - GoHorse Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20GoHorse%20Token%20-%20v1.1.pdf)
-  * [Verichains Public Audit Report - AshWard Token and IDO - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Token%20Token%20and%20IDO%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - AshWard Token and IDO - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20AshWard%20Token%20and%20IDO%20-%20v1.0.pdf)
