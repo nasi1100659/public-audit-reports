@@ -104,5 +104,5 @@ Details
   * [Verichains Public Audit Report - RiceWallet Android Application - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20RiceWallet%20Android%20Application%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - RiceWallet IOS Application - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20RiceWallet%20IOS%20Application%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - GoHorse Token - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20GoHorse%20Token%20-%20v1.1.pdf)
-  * [Verichains Public Audit Report - World of Defish Marketplace - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20World%20of%20Defish%20Markeplace%20-%20v1.2.pdf)
+  * [Verichains Public Audit Report - World of Defish Marketplace - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20World%20of%20Defish%20Marketplace%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - World of Defish Token Vesting - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20World%20of%20Defish%20Token%20Vesting%20-%20v1.1.pdf)
