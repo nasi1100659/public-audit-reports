@@ -107,3 +107,4 @@ Details
   * [Verichains Public Audit Report - World of Defish Marketplace - v1.2.pdf](Verichains%20Public%20Audit%20Report%20-%20World%20of%20Defish%20Marketplace%20-%20v1.2.pdf)
   * [Verichains Public Audit Report - World of Defish Token Vesting - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20World%20of%20Defish%20Token%20Vesting%20-%20v1.1.pdf)
   * [Verichains Public Audit Report - AshWard Token and IDO - v1.1.pdf](Verichains%20Public%20Audit%20Report%20-%20AshWard%20Token%20and%20IDO%20-%20v1.1.pdf)
+  * [Verichains Public Audit Report - Anta Token and Vesting - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Anta%20Token%20and%20Vesting%20-%20v1.0.pdf)
