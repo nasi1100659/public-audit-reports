@@ -110,3 +110,4 @@ Details
   * [Verichains Public Audit Report - Anta Token and Vesting - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Anta%20Token%20and%20Vesting%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - Aiza World Token - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20Aiza%20World%20Token%20-%20v1.0.pdf)
   * [Verichains Public Audit Report - PolyFlip Smartcontracts - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20PolyFlip%20Smartcontracts%20-%20v1.0.pdf)
+  * [Verichains Public Audit Report - STMAN Vestings - v1.0.pdf](Verichains%20Public%20Audit%20Report%20-%20STMAN%20Vestings%20-%20v1.0.pdf)
